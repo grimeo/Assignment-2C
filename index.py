@@ -5,3 +5,6 @@
 
 money = int(input("Enter the amount of money you have: "))
 apple_Price = int(input("Enter the price of an apple: "))
+
+max_valOf_apples = 0
+remaining_money = 0
